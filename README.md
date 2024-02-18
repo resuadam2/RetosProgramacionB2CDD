@@ -1,5 +1,7 @@
 # RetosProgramacionB2CDD
 
+Este é un exemplo de como sería o repositorio para o proxecto desenvolto para desenvolver o curso da Competencia Dixital Docente no Nivel B2.
+
 # Repositorio de Retos de Programación
 
 Este repositorio está destinado a albergar diferentes retos de programación para os ciclos de formación profesional de grao superior da familia da informática. Os profesores poderán publicar aquí os retos e os alumnos poderán enviar as súas solucións mediante pull requests.
@@ -56,12 +58,12 @@ Se tes algunha dúbida ou precisas axuda, por favor, contacta cos profesores res
 
 ### Función Fibonacci
 
-- [fibonacci.java](./fibonacci.java): Implementación de la función Fibonacci en Java.
-- [fibonacci.py](./fibonacci.py): Implementación de la función Fibonacci en Python.
-- [fibonacci.php](./fibonacci.php): Implementación de la función Fibonacci en PHP.
+- [fibonacci.java](./fibonacci.java): Implementación da función Fibonacci en Java.
+- [fibonacci.py](./fibonacci.py): Implementación da función Fibonacci en Python.
+- [fibonacci.php](./fibonacci.php): Implementación da función Fibonacci en PHP.
 
 ### Búsqueda Binaria
 
-- [binaria.java](./binaria.java): Implementación de la búsqueda binaria en Java.
-- [binaria.py](./binaria.py): Implementación de la búsqueda binaria en Python.
-- [binaria.php](./binaria.php): Implementación de la búsqueda binaria en PHP.
+- [binaria.java](./binaria.java): Implementación da búsqueda binaria en Java.
+- [binaria.py](./binaria.py): Implementación da búsqueda binaria en Python.
+- [binaria.php](./binaria.php): Implementación da búsqueda binaria en PHP.
