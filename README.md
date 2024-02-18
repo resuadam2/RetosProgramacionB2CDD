@@ -1,4 +1,4 @@
-# RetosProgramacionB2CDD
+# RetosProgramacion B2 CDD
 
 Este é un exemplo de como sería o repositorio para o proxecto desenvolto para desenvolver o curso da Competencia Dixital Docente no Nivel B2.
 
