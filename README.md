@@ -52,3 +52,16 @@ As solucións aos retos de programación poden ser escritas en calquera destes l
 ## Axuda e Soporte
 Se tes algunha dúbida ou precisas axuda, por favor, contacta cos profesores responsables do proxecto.
 
+## Listado de exemplos resoltos
+
+### Función Fibonacci
+
+- [fibonacci.java](./fibonacci.java): Implementación de la función Fibonacci en Java.
+- [fibonacci.py](./fibonacci.py): Implementación de la función Fibonacci en Python.
+- [fibonacci.php](./fibonacci.php): Implementación de la función Fibonacci en PHP.
+
+### Búsqueda Binaria
+
+- [binaria.java](./binaria.java): Implementación de la búsqueda binaria en Java.
+- [binaria.py](./binaria.py): Implementación de la búsqueda binaria en Python.
+- [binaria.php](./binaria.php): Implementación de la búsqueda binaria en PHP.
