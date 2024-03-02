@@ -54,6 +54,8 @@ As solucións aos retos de programación poden ser escritas en calquera destes l
 ## Axuda e Soporte
 Se tes algunha dúbida ou precisas axuda, por favor, contacta cos profesores responsables do proxecto.
 
+## [Recursos Web para mellorar en cada linguaxe](./WebResources.md)
+
 ## Listado de exemplos resoltos
 
 ### Función Fibonacci
